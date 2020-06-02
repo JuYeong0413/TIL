@@ -28,7 +28,7 @@ function Hello({ color, name, isSpecial }) {
     }}>
       {isSpecial ? <b>*</b> : null}
       안녕하세요 {name}
-    </div>;
+    </div>
   );
 }
 
@@ -55,7 +55,7 @@ function Hello({ color, name, isSpecial }) {
     }}>
       {isSpecial && <b>*</b>}
       안녕하세요 {name}
-    </div>;
+    </div>
   );
 }
 
