@@ -2,7 +2,7 @@
 ```javascript
 import React from 'react';
 
-function CreatUser({ username, email, onChange, onCreate }) {
+function CreateUser({ username, email, onChange, onCreate }) {
   return (
     <div>
       <input
@@ -22,7 +22,7 @@ function CreatUser({ username, email, onChange, onCreate }) {
   );
 }
 
-export default CreatUser;
+export default CreateUser;
 ```
 ```javascript
 import React, { useRef, useState } from 'react';
