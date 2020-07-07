@@ -60,6 +60,14 @@ $ rails db:create
 $ rails db:migrate
 ```
 서버 실행해보고 정상적으로 작동된다면 데이터베이스 변경 완료  
+<details>
+  <summary>삽질하던 과정</summary>
+  
+  큰 마음 먹고 brew로 postgresql uninstall, install 했는데 에러가 났었다.  
+  https://velog.io/@kim-macbook/postgresql-error-1  
+  여기에 나와있는 방법으로 해결함  
+</details>
+
 ### 4. `Github` repository의 `master` branch에 모든 변경사항 `push`하기  
 
 ## Heroku에 배포하기  
