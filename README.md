@@ -36,7 +36,7 @@
 - [FloatingActionButton](https://github.com/JuYeong0413/TIL/blob/master/Flutter/FloatingActionButton.md)
 - [MainAxisAlignment](https://github.com/JuYeong0413/TIL/blob/master/Flutter/MainAxisAlignment.md)
 - [WidgetTester](https://github.com/JuYeong0413/TIL/blob/master/Flutter/WidgetTester.md)
-- [Flutter 기본 코드](https://github.com/JuYeong0413/TIL/blob/master/Flutter/basic-codes.md
+- [Flutter 기본 코드](https://github.com/JuYeong0413/TIL/blob/master/Flutter/basic-codes.md)
 - [기기 OS 확인](https://github.com/JuYeong0413/TIL/blob/master/Flutter/device-os.md)
 - [Flutter 프로젝트 구조](https://github.com/JuYeong0413/TIL/blob/master/Flutter/project-configuration.md)
 - [Status Bar](https://github.com/JuYeong0413/TIL/blob/master/Flutter/status-bar.md)
